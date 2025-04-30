@@ -29,3 +29,6 @@ Navigate to the app directory (if it exists):
 
 2. Run the Streamlit application:
 streamlit run app.py
+
+
+
