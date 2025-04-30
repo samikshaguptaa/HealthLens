@@ -9,16 +9,16 @@ git clone https://github.com/samikshaguptaa/Health-Lens-ML.git
 cd HealthLens
 
 2. Create and Activate a Virtual Environment
-On Windows:
-python -m venv venv
-venv\Scripts\activate
+  On Windows:
+  python -m venv venv
+  venv\Scripts\activate
 
-On macOS/Linux:
-python3 -m venv venv
-source venv/bin/activate
+  On macOS/Linux:
+  python3 -m venv venv
+  source venv/bin/activate
 
 3. Install Required Dependencies
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 💻 How to Use the Project
 
