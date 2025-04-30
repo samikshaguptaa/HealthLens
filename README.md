@@ -5,7 +5,7 @@ Health Lens is a machine learning-based project aimed at predicting the likeliho
 ## 🚀 How to Set Up the Project
 
 1. Clone the Repository
-git clone https://github.com/samikshaguptaa/Health-Lens-ML.git
+git clone https://github.com/samikshaguptaa/HealthLens.git
 cd HealthLens
 
 2. Create and Activate a Virtual Environment
