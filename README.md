@@ -20,6 +20,8 @@ cd HealthLens
 3. Install Required Dependencies
   pip install -r requirements.txt
 
+
+
 💻 How to Use the Project
 
 1. For the Streamlit Web App (Developed in VS Code)
